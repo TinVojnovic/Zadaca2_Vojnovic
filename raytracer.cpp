@@ -8,7 +8,6 @@
 
 using namespace std;
 
-// struktura
 typedef std::vector<Vec3f> Image;
 
 struct Light
